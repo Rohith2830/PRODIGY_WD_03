@@ -1,7 +1,6 @@
 let currentPlayer = 'X';
 let gameBoard = ['', '', '', '', '', '', '', '', ''];
 let gameActive = true;
-
 const winningConditions = [
   [0, 1, 2],
   [3, 4, 5],
